@@ -12,4 +12,6 @@ $ sudo pip install pandas
 $ sudo pip install scipy
 $ sudo pip install xlrd
 $ sudo pip install sklearn
+$ python inputMod.py
+$ python myFilter.py
 ```
